@@ -9,3 +9,4 @@ Hola, mi nombre es Alejo Feas Matej. Estoy interesado en seguir aprendiendo y co
 ![sass](https://user-images.githubusercontent.com/63870669/232686916-40ae17e2-7213-411f-8178-08a1c5d4a31c.svg)
 ![javascript](https://user-images.githubusercontent.com/63870669/232686917-451e8225-5a36-4a37-bdb1-55cef9f841c3.svg)
 ![html-5 (1)](https://user-images.githubusercontent.com/63870669/232687261-6d094361-cf88-4cdc-9b68-4e5653b44fdc.svg)
+![html-5 (1) (1)](https://user-images.githubusercontent.com/63870669/232687381-fbad137c-79e4-4e2c-9f03-16335721e389.svg)
