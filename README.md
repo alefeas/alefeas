@@ -4,4 +4,7 @@ Hola, mi nombre es Alejo Feas Matej. Estoy interesado en seguir aprendiendo y co
 
 # Tecnologías 🛠️
 
-![html5-logo-devextreme-multi-purpose-controls-html-javascript-3](https://user-images.githubusercontent.com/63870669/232686254-8d286bde-de7e-4748-b010-0243e70111e4.png)
+![html-5](https://user-images.githubusercontent.com/63870669/232686912-d7d91943-8e60-4897-b056-06589fbfb82e.svg)
+![css-3](https://user-images.githubusercontent.com/63870669/232686914-ecf7723f-a387-4028-9eeb-c1f55332560e.svg)
+![sass](https://user-images.githubusercontent.com/63870669/232686916-40ae17e2-7213-411f-8178-08a1c5d4a31c.svg)
+![javascript](https://user-images.githubusercontent.com/63870669/232686917-451e8225-5a36-4a37-bdb1-55cef9f841c3.svg)
