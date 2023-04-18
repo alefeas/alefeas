@@ -1,16 +1,27 @@
-### Hi there 👋
+About me
+👋 Hi, I’m Mailo!
+👀 I’m interested in learning new frontend frameworks and colaborating in proyects
+🌱 I’m currently working on a customizable e-commerce with React and taking a backend course in Coderhouse
+📫 You can contact me by sending an email to mairomano2@gmail.com or a message on LinkedIn
+Stack
+JavaScript React p5js
 
+CSS3 SASS
 
-**alefeas/alefeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bootstrap TailwindCSS
 
-Here are some ideas to get you started:
+Figma Adobe Photoshop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
+Firebase
+
+Principal proyects
+🛍 La tiendita: Ecommerce developed with React, Firestore and SASS (in process).
+
+🖼 New file gallery: My first design and programming proyect. Developed with HTML, SASS, Bootstrap and Javascript.
+
+🎨 Paint online: An online drawing app similar to Minecrosoft paint. Developed with P5, SASS and Javascript.
+
+⭐ Platinados: A motivation app developed with React, Firestore and SASS.
+
+Currently learning
+Node Express MongoDB PHP SQL
