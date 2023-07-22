@@ -1,10 +1,27 @@
-# Acerca de mí ✍
+# Acerca de mí
 
-Hola, mi nombre es Alejo Feas Matej. Estoy interesado en seguir aprendiendo y colaborar en proyectos. Actualmente estoy trabajando en el backend de una aplicación de e-commerce (Proyecto en Coderhouse). Puedes contactarme a través de mi e-mail alefeas99@gmail.com o enviarme un mensaje en Linkedin.
+- 👋 Hola, mi nombre es Alejo Feas Matej! 
+- 👀 Estoy interesado en colaborar en nuevas experiencias/proyectos
+- 🌱 Actualmente estoy realizando proyectos personales y arreglando/desarrollando aplicaciones web (Freelance)
+- 📫 Puedes enviarme un email a mairomano2@gmail.com o un mensaje en [LinkedIn](https://www.linkedin.com/in/maia-nicole-romano-delladio-b07286172/)
 
-# Tecnologías 🛠️
+# Stack
 
-![html-5 (1) (1)](https://user-images.githubusercontent.com/63870669/232687381-fbad137c-79e4-4e2c-9f03-16335721e389.svg)
+• HTML5, CSS3/SASS y RWD (Responsive Web Design)
+• Javascript
+• Bootstrap, Material UI, React-Bootstrap
 
-![css-3 (1)](https://user-images.githubusercontent.com/63870669/232687661-55ccd039-b71c-4f98-a052-ba692c8bcd0d.svg)
-![sass (1)](https://user-images.githubusercontent.com/63870669/232687835-5f8c715d-fa8e-4868-8702-700a45a68532.svg)
+• MERN (MongoDB, Express, React JS, Node JS)
+
+• Git/GitHub
+• Firebase
+
+# Principal proyects
+
+🎬 [Felix](https://github.com/mairomano2/Ecomerce): Aplicacion web desarrollada sobre todo con ReactJS, Firebase y SCSS.
+
+🏋️ [Fitness Shop](https://github.com/alefeas/fitness-shop): E-commerce de productos fitness desarrollado principalmente con ReactJS, Firebase, MUI y SCSS.
+
+👚 [Panthera Clothes](https://github.com/alefeas/panthera-clothes): E-commerce de vestimenta para ambos generos desarrollado con HTML, JavaScript y SCSS.
+
+🎸 [Carajo](https://github.com/alefeas/carajo-banda): Maqueta web de una banda de música. Tecnologías: HTML, SCSS.
