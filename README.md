@@ -18,7 +18,7 @@
 
 # Principal proyects
 
-🎬 [Felix](https://github.com/mairomano2/Ecomerce): Aplicacion web desarrollada sobre todo con ReactJS, Firebase y SCSS.
+🎬 [Felix](https://github.com/alefeas/felix-movies): Aplicacion web desarrollada sobre todo con ReactJS, Firebase y SCSS.
 
 🏋️ [Fitness Shop](https://github.com/alefeas/fitness-shop): E-commerce de productos fitness desarrollado principalmente con ReactJS, Firebase, MUI y SCSS.
 
