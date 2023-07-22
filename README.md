@@ -7,14 +7,14 @@
 
 # Stack
 
-• HTML5, CSS3/SASS y RWD (Responsive Web Design)
-• Javascript
-• Bootstrap, Material UI, React-Bootstrap
+- HTML5, CSS3/SASS y RWD (Responsive Web Design)
+- Javascript
+- Bootstrap, Material UI, React-Bootstrap
 
-• MERN (MongoDB, Express, React JS, Node JS)
+- MERN (MongoDB, Express, React JS, Node JS)
 
-• Git/GitHub
-• Firebase
+- Git/GitHub
+- Firebase
 
 # Principal proyects
 
