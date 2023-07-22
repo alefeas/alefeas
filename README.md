@@ -3,7 +3,7 @@
 - 👋 Hola, mi nombre es Alejo Feas Matej! 
 - 👀 Estoy interesado en colaborar en nuevas experiencias/proyectos
 - 🌱 Actualmente estoy realizando proyectos personales y arreglando/desarrollando aplicaciones web (Freelance)
-- 📫 Puedes enviarme un email a mairomano2@gmail.com o un mensaje en [LinkedIn](https://www.linkedin.com/in/maia-nicole-romano-delladio-b07286172/)
+- 📫 Puedes enviarme un email a alefeas99@gmail.com o un mensaje en [LinkedIn](https://www.linkedin.com/in/afeas/)
 
 # Stack
 
