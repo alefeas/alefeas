@@ -22,6 +22,6 @@
 
 🏋️ [Fitness Shop](https://github.com/alefeas/fitness-shop): E-commerce de productos fitness desarrollado principalmente con ReactJS, Firebase, MUI y SCSS.
 
-👚 [Panthera Clothes](https://github.com/alefeas/panthera-clothes): E-commerce de vestimenta para ambos generos desarrollado con HTML, JavaScript y SCSS.
+👚 [Panthera Clothes](https://github.com/alefeas/panthera-clothes): E-commerce de vestimenta para ambos géneros desarrollado con HTML, JavaScript y SCSS.
 
 🎸 [Carajo](https://github.com/alefeas/carajo-banda): Maqueta web de una banda de música. Tecnologías: HTML, SCSS.
