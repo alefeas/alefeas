@@ -18,7 +18,7 @@
 
 # Proyectos
 
-🧑 [Portfolio](https://github.com/alefeas/portfolio): En mi portfolio podrás encontrar más información sobre mí. Tecnologías utilizadas: ReactJS/SCSS/MUI. [Link a la aplicación]([https://felix1.netlify.app/](https://portfolio-alejo-feas-matej.netlify.app/)).
+🧑 [Portfolio](https://github.com/alefeas/portfolio): En mi portfolio podrás encontrar más información sobre mí. Tecnologías utilizadas: ReactJS/SCSS/MUI. [Link a la aplicación](https://portfolio-alejo-feas-matej.netlify.app/).
 
 🎬 [Felix](https://github.com/alefeas/felix-movies): Aplicacion web de peliculas y series desarrollada sobre todo con ReactJS, Firebase y SCSS. [Link a la aplicación](https://felix1.netlify.app/).
 
