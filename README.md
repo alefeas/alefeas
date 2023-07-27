@@ -16,12 +16,14 @@
 - Git/GitHub
 - Firebase
 
-# Principal proyects
+# Proyectos
 
-🎬 [Felix](https://github.com/alefeas/felix-movies): Aplicacion web de peliculas y series desarrollada sobre todo con ReactJS, Firebase y SCSS.
+🧑 [Portfolio](https://github.com/alefeas/portfolio): En mi portfolio podrás encontrar más información sobre mí. Tecnologías utilizadas: ReactJS/SCSS/MUI. [Link a la aplicación]([https://felix1.netlify.app/](https://portfolio-alejo-feas-matej.netlify.app/)).
 
-🏋️ [Fitness Shop](https://github.com/alefeas/fitness-shop): E-commerce de productos fitness desarrollado principalmente con ReactJS, Firebase, MUI y SCSS.
+🎬 [Felix](https://github.com/alefeas/felix-movies): Aplicacion web de peliculas y series desarrollada sobre todo con ReactJS, Firebase y SCSS. [Link a la aplicación](https://felix1.netlify.app/).
 
-👚 [Panthera Clothes](https://github.com/alefeas/panthera-clothes): E-commerce de vestimenta para ambos géneros desarrollado con HTML, JavaScript y SCSS.
+🏋️ [Fitness Shop](https://github.com/alefeas/fitness-shop): E-commerce de productos fitness desarrollado principalmente con ReactJS, Firebase, MUI y SCSS. [Link a la aplicación](https://fitness-shop1.netlify.app/).
 
-🎸 [Carajo](https://github.com/alefeas/carajo-banda): Maqueta web de una banda de música. Tecnologías: HTML, SCSS.
+👚 [Panthera Clothes](https://github.com/alefeas/panthera-clothes): E-commerce de vestimenta para ambos géneros desarrollado con HTML, JavaScript y SCSS. [Link a la aplicación](https://alefeas.github.io/panthera-clothes/).
+
+🎸 [Carajo](https://github.com/alefeas/carajo-banda): Maqueta web de una banda de música. Tecnologías: HTML, SCSS. [Link a la aplicación](https://carajo.netlify.app/).
