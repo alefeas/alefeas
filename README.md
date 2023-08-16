@@ -20,6 +20,8 @@
 
 🧑 [Portfolio](https://github.com/alefeas/portfolio): En mi portfolio podrás encontrar más información sobre mí. Tecnologías utilizadas: ReactJS/SCSS/MUI. [Link a la aplicación](https://portfolio-alejo-feas-matej.netlify.app/).
 
+🧑 [TIC-TAC-TOE](https://github.com/alefeas/tic-tac-toe): Juego TIC-TAC-TOE desarrollado en ReactJS. [Link a la aplicación](https://tic-tac-toe-100.netlify.app/).
+
 🎡 [Trivia App](https://github.com/alefeas/trivia-app): Es un juego que consiste en una batalla de trivia entre 2 jugadores. Desarrollado con ReactJS y SCSS. [Link a la aplicación](https://trivia-app1.netlify.app/).
 
 ⛅ [Weather App](https://github.com/alefeas/weather-app): Aplicación que devuelve el clima en tiempo real de la ubicación que recibe. Tecnologías utilizadas: ReactJS y SCSS. [Link a la aplicación](https://weather-app-8.netlify.app/).
