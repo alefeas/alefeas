@@ -20,7 +20,7 @@
 
 🧑 [Portfolio](https://github.com/alefeas/portfolio): En mi portfolio podrás encontrar más información sobre mí. Tecnologías utilizadas: ReactJS/SCSS/MUI. [Link a la aplicación](https://portfolio-alejo-feas-matej.netlify.app/).
 
-🛸 [Rik and Morty Wiki](https://github.com/alefeas/rick-and-morty-wiki): En esta wiki podrás ver información acerca de todos los personajes de la serie. Además puedes acceder a los datos de su ubicación. Tecnologías utilizadas: ReactJS/SCSS/Axios. [Link a la aplicación](https://rick-and-morty-wiki1.netlify.app/).
+🛸 [Rick and Morty Wiki](https://github.com/alefeas/rick-and-morty-wiki): En esta wiki podrás ver información acerca de todos los personajes de la serie. Además puedes acceder a los datos de su ubicación. Tecnologías utilizadas: ReactJS/SCSS/Axios. [Link a la aplicación](https://rick-and-morty-wiki1.netlify.app/).
 
 🧑 [TIC-TAC-TOE](https://github.com/alefeas/tic-tac-toe): Juego TIC-TAC-TOE desarrollado en ReactJS. [Link a la aplicación](https://tic-tac-toe-100.netlify.app/).
 
