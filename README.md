@@ -8,6 +8,7 @@
 # Stack
 
 - HTML5, CSS3/SASS y RWD (Responsive Web Design)
+- SEO
 - Javascript
 - Bootstrap, Material UI, React-Bootstrap
 
@@ -20,9 +21,11 @@
 
 🧑 [Portfolio](https://github.com/alefeas/portfolio): En mi portfolio podrás encontrar más información sobre mí. Tecnologías utilizadas: ReactJS/SCSS/MUI. [Link a la aplicación](https://portfolio-alejo-feas-matej.netlify.app/).
 
+🧍‍♂️ [Hangman](https://github.com/alefeas/hangman): Juego "El Ahorcado" o "Hangman" desarrollado con ReactJS. [Link a la aplicación](https://hangman12.netlify.app/).
+
 🛸 [Rick and Morty Wiki](https://github.com/alefeas/rick-and-morty-wiki): En esta wiki podrás ver información acerca de todos los personajes de la serie. Además puedes acceder a los datos de su ubicación. Tecnologías utilizadas: ReactJS/SCSS/Axios. [Link a la aplicación](https://rick-and-morty-wiki1.netlify.app/).
 
-🧑 [TIC-TAC-TOE](https://github.com/alefeas/tic-tac-toe): Juego TIC-TAC-TOE desarrollado en ReactJS. [Link a la aplicación](https://tic-tac-toe-100.netlify.app/).
+⭕ [TIC-TAC-TOE](https://github.com/alefeas/tic-tac-toe): Juego TIC-TAC-TOE desarrollado en ReactJS. [Link a la aplicación](https://tic-tac-toe-100.netlify.app/).
 
 🎡 [Trivia App](https://github.com/alefeas/trivia-app): Es un juego que consiste en una batalla de trivia entre 2 jugadores. Desarrollado con ReactJS y SCSS. [Link a la aplicación](https://trivia-app1.netlify.app/).
 
