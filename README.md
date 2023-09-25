@@ -19,6 +19,8 @@
 
 # Proyectos
 
+🥦 [Nutri Secret](https://github.com/alefeas/nutri-secret): Aplicación desarrollada con ReactJS y la API de Edaman. La misma le permite al usuario llevar a cabo su dieta según sus requerimientos diarios de una manera más ordenada y precisa. [Link a la aplicación](https://nutri-secret.netlify.app/).
+
 🧑 [Portfolio](https://github.com/alefeas/portfolio): En mi portfolio podrás encontrar más información sobre mí. Tecnologías utilizadas: ReactJS/SCSS/MUI. [Link a la aplicación](https://portfolio-alejo-feas-matej.netlify.app/).
 
 🧍‍♂️ [Hangman](https://github.com/alefeas/hangman): Juego "El Ahorcado" o "Hangman" desarrollado con ReactJS. [Link a la aplicación](https://hangman12.netlify.app/).
