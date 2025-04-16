@@ -2,10 +2,15 @@
 
 - 👋 Hola, mi nombre es Alejo Feas Matej! 
 - 👀 Estoy interesado en colaborar en nuevas experiencias/proyectos
-- 🌱 Actualmente estoy realizando proyectos personales y arreglando/desarrollando aplicaciones web (Freelance)
+- 🌱 Actualmente estoy realizando proyectos personales y cursando el último año de la Tecnicatura Universitaria en Programación en la UTN
 - 📫 Puedes enviarme un email a alefeas99@gmail.com o un mensaje en [LinkedIn](https://www.linkedin.com/in/afeas/)
 
 # Stack
+
+- C/C++
+- Consultas SQL
+- PL/SQL
+- C# (Próximamente)
 
 - HTML5, CSS3/SASS y RWD (Responsive Web Design)
 - SEO
@@ -13,6 +18,7 @@
 - Bootstrap, Material UI, React-Bootstrap
 
 - MERN (MongoDB, Express, React JS, Node JS)
+- NextJS
 
 - Git/GitHub
 - Firebase
