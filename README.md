@@ -8,9 +8,8 @@
 # Stack
 
 - C/C++
-- Consultas SQL
-- PL/SQL
-- C# (Próximamente)
+- Consultas SQL, Oracle PL/SQL
+- .NET/C#
 
 - HTML5, CSS3/SASS y RWD (Responsive Web Design)
 - SEO
