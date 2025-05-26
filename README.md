@@ -7,20 +7,10 @@
 
 # Stack
 
-- C/C++
-- Consultas SQL, Oracle PL/SQL
-- .NET/C#
-
-- HTML5, CSS3/SASS y RWD (Responsive Web Design)
-- SEO
-- Javascript
-- Bootstrap, Material UI, React-Bootstrap
-
-- MERN (MongoDB, Express, React JS, Node JS)
-- NextJS
-
-- Git/GitHub
-- Firebase
+- Backend: C# / .NET, C / C++
+- Bases de datos: SQL, Oracle PL/SQL, Oracle Cloud
+- Frontend: ReactJS, TypeScript, JavaScript, HTML5, CSS3 / SASS
+- Control de versiones: Git / GitHub
 
 # Principales proyectos
 
