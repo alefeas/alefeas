@@ -7,7 +7,7 @@
 
 # Stack
 
-- Backend: C# / .NET, C / C++
+- Backend: C# / .NET, C / C++, ASP.NET Core
 - Bases de datos: SQL, Oracle PL/SQL, Oracle Cloud
 - Frontend: ReactJS, TypeScript, JavaScript, HTML5, CSS3 / SASS
 - Control de versiones: Git / GitHub
