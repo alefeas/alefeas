@@ -57,12 +57,17 @@ I'm driven by a love for turning complex problems into elegant, intuitive soluti
 
 # Featured Projects
 
+**House of CB** - A premium fashion e-commerce platform where I actively contribute to the development of new features and platform improvements with a focus on backend architecture. Working in an international team on a production application, I participate in the implementation, maintenance, and continuous evolution of the system. The project involves developing robust backend solutions using PHP with Smarty templating engine and Next.js, managing complex database operations with MySQL, and ensuring seamless integration between frontend and backend systems.
+   - [Live Site](https://www.houseofcb.com)
+   - Tech Stack: PHP 8.2, Smarty, Next.js 15, React 19, TypeScript, MySQL, Tailwind CSS, REST API, Docker, and AWS.
+
 **PayTo** - A comprehensive full-stack financial management platform built specifically for Argentine companies. PayTo delivers a robust REST API built with Laravel 12 and a modern frontend with Next.js 15 and React 19. The platform handles complex multi-company operations including invoice management, payment tracking, collections, and seamless AFIP integration for electronic invoice validation. Features complete data isolation between companies, role-based access control, real-time notifications, and VAT calculations.
    - [Backend Repository](https://github.com/alefeas/payto-backend) | [Frontend Repository](https://github.com/alefeas/payto-frontend)
    - Tech Stack: Laravel 12, PHP 8.2, Next.js 15, React 19, TypeScript, MySQL, Tailwind CSS, shadcn/ui, Recharts, Sanctum, and Pest PHP.
 
-**Felix** - A web application for exploring and searching movies and TV series information. Features include detailed content viewing and the ability to add titles to a favorites list stored in the cloud with Firebase. The interface is fully responsive and provides a smooth user experience. Built with ReactJS, Firebase (Cloud Storage), and SCSS.
-   - [Repository](https://github.com/alefeas/felix-movies) | [View the app](https://felix1.netlify.app/)
+**Air George** - A professional landing page developed for a real automotive technical service business. The project showcases the company's services, provides comprehensive information about their offerings, and includes multiple sections for customer engagement. Built with Next.js, the site features a modern, responsive design that works seamlessly across all devices with SEO optimization and excellent user experience.
+   - [Live Site](https://www.airgeorge.ar)
+   - Tech Stack: Next.js 15, React 19, TypeScript, Tailwind CSS, Email Integration, and SEO Optimization.
 
 **Portfolio** - My personal portfolio showcasing my projects and skills as a Full Stack Developer. Built with Next.js, React, and modern web technologies to demonstrate my expertise in frontend and backend development. This project serves as a comprehensive display of my work and capabilities.
    - [Live Site](https://afeas.vercel.app/) | [Repository](https://github.com/alefeas/portfolio-v2)
