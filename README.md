@@ -5,11 +5,13 @@ Hi! I'm **Alejo Feas Matej**, a passionate Full Stack Developer with a strong fo
 I love turning complex problems into elegant, intuitive solutions. Currently working as a Junior Full Stack Developer at House of CB (London-based women's fashion brand), backend-focused on their global e-commerce platform. Always learning — right now focused on cloud technologies, microservices architecture, and advanced database optimization.
 
 **What I Do Best:**
-- Full-stack web development with modern frameworks
-- Database design and optimization
-- API development and integration
-- UI/UX implementation with attention to detail
-- Building scalable, efficient solutions
+- AI automation & integration — building intelligent systems and autonomous agents for real business workflows
+- Backend architecture — designing and modernizing production systems at scale
+- Legacy system migration — owning complex codebase upgrades from planning to production
+- Full-stack development — end-to-end web applications from API to UI
+- Database design & optimization — scalable data models and multi-tenant systems
+- E-commerce platforms — complex shopping flows, inventory, and third-party integrations
+- API design & integration — payment systems, compliance services, and external platforms
 
 **Get in touch:** [alefeas99@gmail.com](mailto:alefeas99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/afeas/) | [Portfolio](https://afeas.vercel.app/)
 
