@@ -1,8 +1,8 @@
 # About Me
 
-Hi! I'm **Alejo Feas Matej**, a passionate Full Stack Developer with a strong foundation in modern web technologies. I'm 22 years old and about to graduate as a University Technician in Programming from UTN.
+Hi! I'm **Alejo Feas Matej**, a passionate Full Stack Developer with a strong foundation in modern web technologies. I hold a degree as a University Technician in Programming from UTN.
 
-I'm driven by a love for turning complex problems into elegant, intuitive solutions. With proactive mindset and a constant desire to learn, I'm seeking my first professional opportunity to grow and take on new challenges in the development field.
+I love turning complex problems into elegant, intuitive solutions. Currently working as a Junior Full Stack Developer at House of CB (London-based women's fashion brand), backend-focused on their global e-commerce platform. Always learning — right now focused on cloud technologies, microservices architecture, and advanced database optimization.
 
 **What I Do Best:**
 - Full-stack web development with modern frameworks
@@ -10,8 +10,6 @@ I'm driven by a love for turning complex problems into elegant, intuitive soluti
 - API development and integration
 - UI/UX implementation with attention to detail
 - Building scalable, efficient solutions
-
-**Currently Learning:** Cloud technologies, microservices architecture, and advanced database optimization.
 
 **Get in touch:** [alefeas99@gmail.com](mailto:alefeas99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/afeas/) | [Portfolio](https://afeas.vercel.app/)
 
