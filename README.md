@@ -56,18 +56,22 @@ I'm driven by a love for turning complex problems into elegant, intuitive soluti
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 # Featured Projects
-
-**House of CB** - A premium fashion e-commerce platform where I actively contribute to the development of new features and platform improvements with a focus on backend architecture. Working in an international team on a production application, I participate in the implementation, maintenance, and continuous evolution of the system. The project involves developing robust backend solutions using PHP with Smarty templating engine and Next.js, managing complex database operations with MySQL, and ensuring seamless integration between frontend and backend systems.
+ 
+**House of CB** - Backend architecture modernization, AI automation, and critical feature development for a high-traffic international fashion platform. Working in a global production team, I lead the migration and modernization of the backend PHP architecture, design and integrate AI solutions and autonomous agents for internal process automation, and develop critical features ensuring platform scalability under high-traffic conditions.
    - [Live Site](https://www.houseofcb.com)
-   - Tech Stack: PHP 8.2, Smarty, Next.js 15, React 19, TypeScript, MySQL, Tailwind CSS, REST API, Docker, and AWS.
+   - Tech Stack: PHP 8.5, Smarty, Next.js 16, React 19, TypeScript, MySQL, Tailwind CSS, REST API, Docker, and AWS.
 
-**PayTo** - A comprehensive full-stack financial management platform built specifically for Argentine companies. PayTo delivers a robust REST API built with Laravel 12 and a modern frontend with Next.js 15 and React 19. The platform handles complex multi-company operations including invoice management, payment tracking, collections, and seamless AFIP integration for electronic invoice validation. Features complete data isolation between companies, role-based access control, real-time notifications, and VAT calculations.
-   - [Backend Repository](https://github.com/alefeas/payto-backend) | [Frontend Repository](https://github.com/alefeas/payto-frontend)
+**House of CB AI** - AI-powered luxury fashion recommendation engine combining advanced language models with real-time image generation. Features style profile customization, multi-image reference analysis, cumulative refinement logic that preserves context across iterations, and seamless e-commerce integration.
+   - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MySQL, Tailwind CSS, Generative AI, Vision Models, and Image Generation.   
+
+**Mistress Rocks** - Complete solo backend migration of an international fashion e-commerce platform from PHP 7.2 to PHP 8.5. Covered the entire codebase: deprecated syntax, breaking changes across versions, dependency modernization, and full platform stability validation post-migration.
+   - [Live Site](https://www.mistressrocks.com)
+   - Tech Stack: PHP 8.5, PHP 7.2, MySQL, and E-commerce.
+
+**PayTo** - Comprehensive full-stack financial management platform built for Argentine companies. Delivers a robust REST API with Laravel 12 and a modern frontend with Next.js 15. Handles multi-company invoice management, AFIP electronic invoice integration, payment tracking, VAT calculations, and role-based access control with complete data isolation between companies.
+   - [Backend Repository](https://github.com/alefeas/payto-backend) | [Frontend Repository](https://github.com/alefeas/payto-frontend) | [Live Site](https://payto.vercel.app)
    - Tech Stack: Laravel 12, PHP 8.2, Next.js 15, React 19, TypeScript, MySQL, Tailwind CSS, shadcn/ui, Recharts, Sanctum, and Pest PHP.
 
-**Air George** - A professional landing page developed for a real automotive technical service business. The project showcases the company's services, provides comprehensive information about their offerings, and includes multiple sections for customer engagement. Built with Next.js, the site features a modern, responsive design that works seamlessly across all devices with SEO optimization and excellent user experience.
-   - [Live Site](https://www.airgeorge.ar)
-   - Tech Stack: Next.js 15, React 19, TypeScript, Tailwind CSS, Email Integration, and SEO Optimization.
-
-**Portfolio** - My personal portfolio showcasing my projects and skills as a Full Stack Developer. Built with Next.js, React, and modern web technologies to demonstrate my expertise in frontend and backend development. This project serves as a comprehensive display of my work and capabilities.
-   - [Live Site](https://afeas.vercel.app/) | [Repository](https://github.com/alefeas/portfolio-v2)
+**Bennus** - Production full-stack e-commerce for a meal delivery business. Dual shopping model — pre-configured packages and a custom meal builder with real-time pricing. Features a WhatsApp order integration, full admin dashboard, inventory management with stock alerts, and server-side rendering optimized for performance at scale.
+   - [Live Site](https://www.bennus.com.ar)
+   - Tech Stack: Next.js 16, React 19, TypeScript, MySQL, Prisma, Tailwind CSS, shadcn/ui, and Server Actions.
