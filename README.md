@@ -2,7 +2,7 @@
 
 Hi! I'm **Alejo Feas Matej**, a Full Stack Developer focused on production software for international teams and high-traffic products. University Technician in Programming (UTN).
 
-I'm part of the **House of CB** engineering team — backend-focused on global luxury e-commerce — and I also ship full-stack platforms and applied AI for clients through **[AFM](https://afm-software.vercel.app)**, my independent software and AI studio.
+I'm part of the **House of CB** engineering team — backend-focused on global luxury e-commerce — and I also ship full-stack platforms and applied AI for clients through **AFM**, my independent software and AI studio.
 
 I turn complex legacy systems into secure, scalable solutions, and ship production software with practical AI for real business workflows.
 
