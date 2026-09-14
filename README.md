@@ -1,17 +1,18 @@
 # About Me
 
-Hi! I'm **Alejo Feas Matej**, a passionate Full Stack Developer with a strong foundation in modern web technologies. I hold a degree as a University Technician in Programming from UTN.
+Hi! I'm **Alejo Feas Matej**, a Full Stack Developer focused on production software for international teams and high-traffic products. University Technician in Programming (UTN).
 
-I love turning complex problems into elegant, intuitive solutions. Currently working as a Junior Full Stack Developer at House of CB (London-based women's fashion brand), backend-focused on their global e-commerce platform. Always learning — right now focused on cloud technologies, microservices architecture, and advanced database optimization.
+I'm part of the **House of CB** engineering team — backend-focused on global luxury e-commerce — and I also ship full-stack platforms and applied AI for clients through **[AFM](https://afm-software.vercel.app)**, my independent software and AI studio.
+
+I turn complex legacy systems into secure, scalable solutions, and ship production software with practical AI for real business workflows.
 
 **What I Do Best:**
-- AI automation & integration — building intelligent systems and autonomous agents for real business workflows
-- Backend architecture — designing and modernizing production systems at scale
-- Legacy system migration — owning complex codebase upgrades from planning to production
-- Full-stack development — end-to-end web applications from API to UI
-- Database design & optimization — scalable data models and multi-tenant systems
-- E-commerce platforms — complex shopping flows, inventory, and third-party integrations
-- API design & integration — payment systems, compliance services, and external platforms
+- Full-stack development and legacy system modernization
+- Database design and optimization
+- API development and integration
+- AI integration and process automation in production
+
+**Currently Focused On:** Applied AI and LLMs, autonomous agents, and legacy system modernization for production-ready delivery.
 
 **Get in touch:** [alefeas99@gmail.com](mailto:alefeas99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/afeas/) | [Portfolio](https://afeas.vercel.app/)
 
@@ -21,21 +22,19 @@ I love turning complex problems into elegant, intuitive solutions. Currently wor
 
 **Backend**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-**Databases**
+**Databases & Cache**
 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle PL/SQL](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
 
 **Frontend**
 
@@ -43,35 +42,52 @@ I love turning complex problems into elegant, intuitive solutions. Currently wor
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+
+**AI & Automation**
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0D9488?style=flat&logo=googlegemini&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8B5CF6?style=flat&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=flat)
+![Process Automation](https://img.shields.io/badge/Process%20Automation-0F766E?style=flat)
 
 **Tools & DevOps**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 # Featured Projects
- 
-**House of CB** - Backend architecture modernization, AI automation, and critical feature development for a high-traffic international fashion platform. Working in a global production team, I lead the migration and modernization of the backend PHP architecture, design and integrate AI solutions and autonomous agents for internal process automation, and develop critical features ensuring platform scalability under high-traffic conditions.
-   - [Live Site](https://www.houseofcb.com)
-   - Tech Stack: PHP 8.5, Smarty, Next.js 16, React 19, TypeScript, MySQL, Tailwind CSS, REST API, Docker, and AWS.
 
-**House of CB AI** - AI-powered luxury fashion recommendation engine combining advanced language models with real-time image generation. Features style profile customization, multi-image reference analysis, cumulative refinement logic that preserves context across iterations, and seamless e-commerce integration.
-   - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MySQL, Tailwind CSS, Generative AI, Vision Models, and Image Generation.   
+**House of CB — Next.js Platform Rebuild** *(In Development)* — Full rebuild of a high-traffic luxury fashion platform to Next.js 16. Frontend owns the storefront migration; backend owns the admin panel and business domain — Prisma, MySQL, Redis caching, and domain parity for pricing, stock, and orders on a revenue-critical system.
+   - [Portfolio](https://afeas.vercel.app/projects/house-of-cb-rebuild)
+   - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MySQL, Redis, Tailwind CSS, Docker, AWS.
 
-**Mistress Rocks** - Complete solo backend migration of an international fashion e-commerce platform from PHP 7.2 to PHP 8.5. Covered the entire codebase: deprecated syntax, breaking changes across versions, dependency modernization, and full platform stability validation post-migration.
-   - [Live Site](https://www.mistressrocks.com)
-   - Tech Stack: PHP 8.5, PHP 7.2, MySQL, and E-commerce.
+**Melincué Viajes** — Production travel platform for an Argentine agency: live flight, hotel and package quotation, ops reporting with Google Drive sync, and an AI quotation agent over WhatsApp Business Cloud API that reuses the same inventory and margin domain agents use in the admin.
+   - [Live Site](https://melincueviajes.com.ar) | [Portfolio](https://afeas.vercel.app/projects/melincue-viajes)
+   - Tech Stack: Node.js, TypeScript, Next.js 16, Express 5, Prisma, MySQL, Redis, WhatsApp Business Cloud API, Docker, Cloudflare.
 
-**PayTo** - Comprehensive full-stack financial management platform built for Argentine companies. Delivers a robust REST API with Laravel 12 and a modern frontend with Next.js 15. Handles multi-company invoice management, AFIP electronic invoice integration, payment tracking, VAT calculations, and role-based access control with complete data isolation between companies.
-   - [Backend Repository](https://github.com/alefeas/payto-backend) | [Frontend Repository](https://github.com/alefeas/payto-frontend) | [Live Site](https://payto.vercel.app)
-   - Tech Stack: Laravel 12, PHP 8.2, Next.js 15, React 19, TypeScript, MySQL, Tailwind CSS, shadcn/ui, Recharts, Sanctum, and Pest PHP.
+**House of CB** — Production backend on a luxury international fashion e-commerce: critical features under global traffic and AI-assisted internal automation on the live stack.
+   - [Live Site](https://www.houseofcb.com) | [Portfolio](https://afeas.vercel.app/projects/house-of-cb)
+   - Tech Stack: PHP 8.5, Smarty, Next.js, React, TypeScript, MySQL, Docker, AWS.
 
-**Bennus** - Production full-stack e-commerce for a meal delivery business. Dual shopping model — pre-configured packages and a custom meal builder with real-time pricing. Features a WhatsApp order integration, full admin dashboard, inventory management with stock alerts, and server-side rendering optimized for performance at scale.
-   - [Live Site](https://www.bennus.com.ar)
-   - Tech Stack: Next.js 16, React 19, TypeScript, MySQL, Prisma, Tailwind CSS, shadcn/ui, and Server Actions.
+**Madame Pompidor** — Live platform for an international restaurant in Malaysia: QR table ordering with real-time SSE, legacy PHP POS bridge, guest-order cloud app, and brand site.
+   - [Live Site](https://madamepompidor.com/) | [Portfolio](https://afeas.vercel.app/projects/madame-pompidor)
+   - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MariaDB, Server-Sent Events, PHP, Docker, Nginx.
+
+**House of CB AI** — Generative AI fashion assistant with outfit recommendations, trend-aware styling, and image synthesis for luxury retail.
+   - [Portfolio](https://afeas.vercel.app/projects/house-of-cb-ai)
+   - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MySQL, Generative AI, Vision Models.
+
+**Mistress Rocks** — Full-stack modernization of an international fashion e-commerce: PHP 7.2 → 8.5 migration and Smarty frontend modernization for a global brand.
+   - [Live Site](https://www.mistressrocks.com) | [Portfolio](https://afeas.vercel.app/projects/mistress-rocks)
+   - Tech Stack: PHP 8.5, PHP 7.2, Smarty, MySQL.
+
+**[View more projects →](https://afeas.vercel.app)**
