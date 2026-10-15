@@ -67,27 +67,27 @@ I turn complex legacy systems into secure, scalable solutions, and ship producti
 # Featured Projects
 
 **House of CB — Next.js Platform Rebuild** *(In Development)* — Full rebuild of a high-traffic luxury fashion platform to Next.js 16. Frontend owns the storefront migration; backend owns the admin panel and business domain — Prisma, MySQL, Redis caching, and domain parity for pricing, stock, and orders on a revenue-critical system.
-   - [Portfolio](https://afeas.vercel.app/projects/house-of-cb-rebuild)
+   - [View details](https://afeas.vercel.app/projects/house-of-cb-rebuild)
    - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MySQL, Redis, Tailwind CSS, Docker, AWS.
 
 **Melincué Viajes** — Production travel platform for an Argentine agency: live flight, hotel and package quotation, ops reporting with Google Drive sync, and an AI quotation agent over WhatsApp Business Cloud API that reuses the same inventory and margin domain agents use in the admin.
-   - [Live Site](https://melincueviajes.com.ar) | [Portfolio](https://afeas.vercel.app/projects/melincue-viajes)
+   - [Live Site](https://melincueviajes.com.ar) | [View details](https://afeas.vercel.app/projects/melincue-viajes)
    - Tech Stack: Node.js, TypeScript, Next.js 16, Express 5, Prisma, MySQL, Redis, WhatsApp Business Cloud API, Docker, Cloudflare.
 
 **House of CB** — Production backend on a luxury international fashion e-commerce: critical features under global traffic and AI-assisted internal automation on the live stack.
-   - [Live Site](https://www.houseofcb.com) | [Portfolio](https://afeas.vercel.app/projects/house-of-cb)
+   - [Live Site](https://www.houseofcb.com) | [View details](https://afeas.vercel.app/projects/house-of-cb)
    - Tech Stack: PHP 8.5, Smarty, Next.js, React, TypeScript, MySQL, Docker, AWS.
 
 **Madame Pompidor** — Live platform for an international restaurant in Malaysia: QR table ordering with real-time SSE, legacy PHP POS bridge, guest-order cloud app, and brand site.
-   - [Live Site](https://madamepompidor.com/) | [Portfolio](https://afeas.vercel.app/projects/madame-pompidor)
+   - [Live Site](https://madamepompidor.com/) | [View details](https://afeas.vercel.app/projects/madame-pompidor)
    - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MariaDB, Server-Sent Events, PHP, Docker, Nginx.
 
 **House of CB AI** — Generative AI fashion assistant with outfit recommendations, trend-aware styling, and image synthesis for luxury retail.
-   - [Portfolio](https://afeas.vercel.app/projects/house-of-cb-ai)
+   - [View details](https://afeas.vercel.app/projects/house-of-cb-ai)
    - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MySQL, Generative AI, Vision Models.
 
 **Mistress Rocks** — Full-stack modernization of an international fashion e-commerce: PHP 7.2 → 8.5 migration and Smarty frontend modernization for a global brand.
-   - [Live Site](https://www.mistressrocks.com) | [Portfolio](https://afeas.vercel.app/projects/mistress-rocks)
+   - [Live Site](https://www.mistressrocks.com) | [View details](https://afeas.vercel.app/projects/mistress-rocks)
    - Tech Stack: PHP 8.5, PHP 7.2, Smarty, MySQL.
 
 **[View more projects →](https://afeas.vercel.app)**
