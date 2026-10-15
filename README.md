@@ -8,6 +8,7 @@ I turn complex legacy systems into secure, scalable solutions, and ship producti
 
 **What I Do Best:**
 - Full-stack development and legacy system modernization
+- Layered architecture (SOLID) and TDD alongside feature delivery
 - Database design and optimization
 - API development and integration
 - AI integration and process automation in production
@@ -58,7 +59,6 @@ I turn complex legacy systems into secure, scalable solutions, and ship producti
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -70,11 +70,11 @@ I turn complex legacy systems into secure, scalable solutions, and ship producti
    - [View details](https://afeas.vercel.app/projects/house-of-cb-rebuild)
    - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MySQL, Redis, Tailwind CSS, Docker, AWS.
 
-**Melincué Viajes** — Production travel platform for an Argentine agency: live flight, hotel and package quotation, ops reporting with Google Drive sync, and an AI quotation agent over WhatsApp Business Cloud API that reuses the same inventory and margin domain agents use in the admin.
+**Melincué Viajes** — Production travel platform for an Argentine agency: live flight, hotel and package quotation, ops reporting with Google Drive sync, and an AI quotation agent over WhatsApp Business Cloud API that reuses the same inventory and margin domain agents use in the admin. Built as a 3-app TypeScript monorepo with four-layer SOLID architecture and TDD on domain logic.
    - [Live Site](https://melincueviajes.com.ar) | [View details](https://afeas.vercel.app/projects/melincue-viajes)
    - Tech Stack: Node.js, TypeScript, Next.js 16, Express 5, Prisma, MySQL, Redis, WhatsApp Business Cloud API, Docker, Cloudflare.
 
-**House of CB** — Production backend on a luxury international fashion e-commerce: critical features under global traffic and AI-assisted internal automation on the live stack.
+**House of CB** — Production backend on a luxury international fashion e-commerce (~1 sale every ~30 seconds): critical features under global traffic and AI-assisted internal automation on the live stack.
    - [Live Site](https://www.houseofcb.com) | [View details](https://afeas.vercel.app/projects/house-of-cb)
    - Tech Stack: PHP 8.5, Smarty, Next.js, React, TypeScript, MySQL, Docker, AWS.
 
