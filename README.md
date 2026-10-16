@@ -82,6 +82,10 @@ I turn complex legacy systems into secure, scalable solutions, and ship producti
    - [Live Site](https://madamepompidor.com/) | [View details](https://afeas.vercel.app/projects/madame-pompidor)
    - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MariaDB, Server-Sent Events, PHP, Docker, Nginx.
 
+**FM Arq** — Editorial bilingual portfolio for a Buenos Aires architecture studio: scroll-driven GSAP motion, Lenis smoothing, route transitions, and twelve architecture works.
+   - [Live Site](https://fmarq.ar) | [View details](https://afeas.vercel.app/projects/fm-arq)
+   - Tech Stack: Next.js 16, React 19, TypeScript, Tailwind CSS 4, next-intl, GSAP, Lenis, Zod, Nodemailer.
+
 **House of CB AI** — Generative AI fashion assistant with outfit recommendations, trend-aware styling, and image synthesis for luxury retail.
    - [View details](https://afeas.vercel.app/projects/house-of-cb-ai)
    - Tech Stack: Next.js 16, React 19, TypeScript, Prisma, MySQL, Generative AI, Vision Models.
